@@ -9,8 +9,8 @@ Enthusiastic about full stack development
 
 🥅 2022 goals:
 
-✅ To complete the Northcoders bootcamp.
-To create a personal portfolio
+✅ To complete the Northcoders bootcamp. 
+To create a personal portfolio 
 To integrate into a junior software developer position!
 
 Outside work:
