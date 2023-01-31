@@ -1,7 +1,7 @@
 <h1>👋 Hi there </h1>
 
 
-My name is Mohamed Salim and I am a Junior Software Developer
+<h2>My name is Mohamed Salim and I am a Junior Software Developer</h2>
 
 Enthusiastic about full stack development
 📍 Based in Manchester, UK
@@ -9,11 +9,11 @@ Enthusiastic about full stack development
 
 🥅 2022 goals:
 
-✅ To complete the Northcoders bootcamp. 
+<li>✅ To complete the Northcoders bootcamp. 
 To create a personal portfolio 
-To integrate into a junior software developer position!
+To integrate into a junior software developer position!</li>
 
-Outside work:
+<h3>Outside work:</h3>
 ⚽ I enjoy football and studying new coding languages.
 
 <h2>Languages and Tools:</h2>
