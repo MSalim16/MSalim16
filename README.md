@@ -1,6 +1,5 @@
 <h1>👋 Hi there </h1>
-<br></br><br></br>
-
+<br></br>
 <h3>My name is Mohamed Salim and I am a Junior Software Developer</h3>
 <br></br>
 <p>Enthusiastic about full stack development</p>
