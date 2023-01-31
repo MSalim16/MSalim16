@@ -2,9 +2,9 @@
 
 <h3>My name is Mohamed Salim and I am a Junior Software Developer</h3>
 
-<p>Enthusiastic about full stack development
-📍 Based in Manchester, UK
-🛤 I'm currently learning TypeScript with FireBase </p>
+<p>Enthusiastic about full stack development</p>
+<p>📍 Based in Manchester, UK</p>
+<p>🛤 I'm currently learning TypeScript with FireBase </p>
 
 🥅 2022 goals:
 
