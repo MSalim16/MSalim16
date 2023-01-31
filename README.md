@@ -16,7 +16,7 @@ To integrate into a junior software developer position!
 Outside work:
 ⚽ I enjoy football and studying new coding languages.
 
-Languages and Tools:
+<h2>Languages and Tools:</h2>
 
 
 
