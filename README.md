@@ -1,7 +1,7 @@
 <h1>👋 Hi there </h1>
 
 
-<h2>My name is Mohamed Salim and I am a Junior Software Developer</h2>
+<p>My name is Mohamed Salim and I am a Junior Software Developer</>
 
 Enthusiastic about full stack development
 📍 Based in Manchester, UK
