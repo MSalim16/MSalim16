@@ -1,5 +1,5 @@
 <h1>👋 Hi there </h1>
-<h3>My name is Mohamed Salim and I am a Trainee Full Stack Software Developer</h3>
+<h3>My name is Mohamed Salim and I am a Junior Full Stack Software Developer</h3>
 <p>Enthusiastic about full stack development</p>
 
 <p>📍 Based in Manchester, UK</p>
