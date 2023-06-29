@@ -6,10 +6,10 @@
 <p>🛤 I'm currently learning TypeScript with FireBase </p>
 
 
-🥅 2022 goals:
+🥅 2023 goals:
 
 <li>✅ To complete the Northcoders bootcamp. </li>
-<li> To create a personal portfolio </li>
+<li>✅ To create a personal portfolio </li>
 <li>To integrate into a junior software developer position!</li>
 
 <h3>Outside work:</h3>
