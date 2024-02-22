@@ -6,7 +6,7 @@
 <p>🛤 I'm currently learning TypeScript with FireBase </p>
 
 
-🥅 2023 goals:
+🥅 2024 goals:
 
 <li>✅ To complete the Northcoders bootcamp. </li>
 <li>✅ To create a personal portfolio </li>
