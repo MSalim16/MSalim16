@@ -8,7 +8,7 @@
 
 🥅 2026 goals:
 
-<li> To complete the Kodecloud SRE Pathway. </li>
+<li> To complete the KodeKloud SRE Pathway. </li>
 <li>To integrate into a Site Reliablity Engineer position!</li>
 
 
