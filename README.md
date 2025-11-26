@@ -1,16 +1,15 @@
 <h1>👋 Hi there </h1>
 <h3>My name is Mohamed Salim and I am a Front-End Software Developer</h3>
-<p>Enthusiastic about full stack development</p>
+<p>Enthusiastic about Devops</p>
 
 <p>📍 Based in Manchester, UK</p>
-<p>🛤 I'm currently learning TypeScript with FireBase </p>
+<p>🛤 I'm currently learning how to become a Site Reliablilty Engineer </p>
 
 
-🥅 2024 goals:
+🥅 2026 goals:
 
-<li>✅ To complete the Northcoders bootcamp. </li>
-<li>✅ To create a personal portfolio </li>
-<li>To integrate into a software developer position!</li>
+<li> To complete the Kodecloud SRE Pathway. </li>
+<li>To integrate into a Site Reliablity Engineer position!</li>
 
 
 <h2>Languages and Tools:</h2>
